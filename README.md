@@ -17,7 +17,7 @@ Sou estudante e desenvolvedor em formação, apaixonado por tecnologia e em cons
 
 ## 📊 Estatísticas do GitHub
 
-![Chrystian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrystianPaixao)
+![Chrystian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrystianPaixao&layout=compact&theme=dark)
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrystianPaixao&layout=compact&theme=dark)
 
