@@ -2,7 +2,6 @@
 
 Sou estudante e desenvolvedor em formação, apaixonado por tecnologia e em constante aprendizado nas áreas de back-end e front-end. Atualmente, estudo e pratico com foco em Python, JavaScript, Node.js, Next.js e MySQL.
 
----
 
 ## 🚀 Tecnologias que utilizo
 
@@ -13,13 +12,11 @@ Sou estudante e desenvolvedor em formação, apaixonado por tecnologia e em cons
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
----
 
 ## 📊 Estatísticas do GitHub
 
 ![Chrystian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrystianPaixao&layout=compact&theme=dark)
 
----
 
 ## 📫 Contato
 
