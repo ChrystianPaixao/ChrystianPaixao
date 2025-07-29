@@ -18,8 +18,3 @@ Sou estudante e desenvolvedor em formação, apaixonado por tecnologia e em cons
 ![](https://github-readme-stats.vercel.app/api?username=ChrystianPaixao&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrystianPaixao&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-## 📫 Contato
-
-Entre em contato comigo pelo GitHub ou adicione seu LinkedIn ou e-mail aqui:
-- GitHub: [@ChrystianPaixao](https://github.com/ChrystianPaixao)
