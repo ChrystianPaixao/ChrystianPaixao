@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Chrystian
+# Sobre mim!
 
 Sou estudante e desenvolvedor em formação, apaixonado por tecnologia e em constante aprendizado nas áreas de back-end e front-end. Atualmente, estudo e pratico com foco em Python, JavaScript, Node.js, Next.js e MySQL.
 
